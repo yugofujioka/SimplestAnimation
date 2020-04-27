@@ -1,3 +1,3 @@
 # SimplestAnimation
 
-for Playing Animation Clips without using Animator.(use Playable)
+for Playing Unity Animation Clips without using Animator.(use Playable)
