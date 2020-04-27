@@ -31,6 +31,7 @@ public class SampleSimplestAnimator : MonoBehaviour {
 	}
 
 	void Update() {
+		/*
 		if (Input.GetMouseButtonDown(0)) {
 			this.anim.Play(1, 0.2f);
 			this.anim.PlayQueued(2, 0f);
